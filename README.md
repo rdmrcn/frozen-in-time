@@ -17,12 +17,3 @@ After finding an ancient clock deep in the forest, the protagonist realizes that
 
 ⏱️ Development
 Created in 48 hours
-Made for a game jam
-🛠️ Controls
-R – Rewind
-T – Stun enemies
-Y – Attack / Place puzzle pieces
-G – Reset puzzle
-🛠️NY Walkers
-Reha Demircan - Lead Developer ,  Programmer/ Level Designer 
-Enes Inan - Art, UI Designer / Asistant Programmer
